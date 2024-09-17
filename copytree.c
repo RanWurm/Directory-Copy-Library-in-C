@@ -1,6 +1,6 @@
 //
 // Created by ran on 6/20/24.
-// ran wurembrand 315366039
+// ran wurembrand
 #include "copytree.h"
 
 // Function to split the path into directory path and filename
